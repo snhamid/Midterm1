@@ -2,7 +2,7 @@ public class addIntegers {
 
     public static void main(String[] args) {
 
-        int first = 10;
+        int first = 100;
         int second = 20;
 
         System.out.println("Enter two numbers: " + first + " " + second);
